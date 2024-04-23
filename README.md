@@ -16,3 +16,5 @@ This Python script automates the process of tagging Zotero items, saving signifi
 - Replace the placeholders in the #User configurations section of the script with your API key, library ID, collection ID, and other settings.
 - Create or modify the CSV file according to the specified format and field names.
 - Run the script, and it will start processing the items in the specified collection, applying the tags based on the rules defined in the CSV file.
+
+Zotero-Auto-Tagger is licensed under CC BY 4.0
