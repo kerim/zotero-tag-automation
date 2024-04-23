@@ -1,6 +1,8 @@
 # Zotero Auto-Tagger
 
-Maintaining an organized and well-tagged Zotero library is crucial for efficient research and reference management. This Python script automates the process of tagging Zotero items, saving significant time and effort while ensuring consistent and accurate tagging across a collection.
+Maintaining an organized and well-tagged Zotero library is crucial for efficient research and reference management. 
+
+This Python script automates the process of tagging Zotero items, saving significant time and effort while ensuring consistent and accurate tagging across a collection.
 
 ## 🚀 Features
 - **Keyword Tagging**: The script scans the title and abstract of each item in the collection and adds tags that match the keywords provided in the CSV file.
