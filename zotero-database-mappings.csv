@@ -1,4 +1,5 @@
 ﻿type;value;mapped_tag1;mapped_tag2;mapped_tag3
-keyword;your-tag;;; 
-tag_mapping;your-tag;tag-1-to-be-added;tag-2-to-be-added;tag-3-to-be-added
-phrase_to_tag;care for others;tag-1-to-be-added;tag-2-to-be-added;tag-3-to-be-added
+keyword;tag1;;;
+keyword;tag2;;; 
+tag_mapping;tag1;tagtobeadded;tagtobeadded;;
+phrase_to_tag;care for others;tag1tobeadded;tag2tobeadded;;
