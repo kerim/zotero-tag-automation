@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Credentials (just in case)
+*.key
+*.token
+*credentials*.txt
+.env
+
+# System
+.DS_Store
+
+# Logs
+error_log.txt
+*.log
+
+# CSV files with mappings
+*.csv
