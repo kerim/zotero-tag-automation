@@ -232,6 +232,10 @@ MIT License
 - [Zotero MCP Server](https://github.com/54yyyu/zotero-mcp) - MCP server for Zotero
 - [pyzotero](https://github.com/urschrei/pyzotero) - Python client for Zotero API
 
+## Acknowledgments
+
+Inspired by [raphaelstevens/zotero-tag-automation](https://github.com/raphaelstevens/zotero-tag-automation) for demonstrating the web API approach. Our implementation uses a different design focused on macOS Keychain security and Claude Code integration.
+
 ## Support
 
 For issues or questions:
