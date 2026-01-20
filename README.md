@@ -4,6 +4,17 @@ Automatically tag Zotero items with timestamp tags after generating bibliographi
 
 **Security:** All credentials stored securely in macOS Keychain (encrypted, no plain text).
 
+## Skill Installation
+
+### For Claude Code
+
+1. Clone or download this repository
+2. Copy the `skill/` folder to your Claude Code skills directory:
+   ```bash
+   cp -r skill ~/.claude/skills/zotero-tag-automation
+   ```
+3. Restart Claude Code to load the skill
+
 ## What This Does
 
 After searching your Zotero library and generating bibliographies using the [Zotero MCP skill](https://github.com/kerim/zotero-mcp-skill), this tool:
