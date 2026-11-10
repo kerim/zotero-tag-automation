@@ -3,9 +3,10 @@
 
 from pyzotero import zotero
 
-# Configuration
-api_key = 'YT4k8qlHFee21xao3AnxCsSk'
-library_id = '8168494'
+from tag_items import get_credentials
+
+# Configuration (credentials come from macOS Keychain; run setup_credentials.py once)
+library_id, api_key = get_credentials()
 library_type = 'user'
 tag_to_add = 'Zotero-MCP-Results-2025-10-25-1350'
 
